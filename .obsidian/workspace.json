@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "a84b2619628555d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c6325ef5594629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51371c9af42703e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bc398cf956b1c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "d94c1fc0311ebb71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f5979411dbe0f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1559c40626087af3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "POST /repos/{owner}/{repo}/pulls",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "669765e1828d74bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ff19c5a48544f8d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.89453125
+  },
+  "right": {
+    "id": "39efc4e2d2f96253",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b233d3f87d2083f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658d45457d2d2e78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_infio_prompts/mcp_settings.json",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mcp_settings"
+            }
+          },
+          {
+            "id": "e94963f9563fd83a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "752cebfe75e148e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f7ed287694feff49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Внешние системы/Внешняя система CDP Legal Coverage/Сервисы CDP Legal Coverage/Сервис CreateMemberFile в CDP Legal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2e27d82b2928f5b4",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 570.46484375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "americor-features-plugin:Сгенерировать описание задачи": false,
+      "obsidian-custom-frames:Open Swagger Editor": false,
+      "realclaudian:Open Claudian": false,
+      "plaintext-view:Toggle Plain Text View": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ff19c5a48544f8d2",
+  "lastOpenFiles": [
+    "tasks/GITEA-1.md",
+    "docs/Миграции данных/Миграция GITEA-1.md",
+    "docs/Права доступа/Permissions - Organizations/Permissions - Subgroup Inheritance.md",
+    "docs/Внешний API/Сервисы Organizations/Метод GET !orgs.md",
+    "docs/Внешний API/Сервисы Organizations/Метод PATCH !orgs!(id).md",
+    "docs/Внешний API/Сервисы Organizations/Метод GET !orgs!(id)!subgroups.md",
+    "docs/Внешний API/Сервисы Organizations/Метод POST !orgs.md",
+    "docs/Описание Backend/Сервисы/Сервис OrgHierarchyService.md",
+    "docs/Описание Backend/Use Cases/Command/CH - MigrateExistingOrgs.md",
+    "docs/Описание Backend/Use Cases/Command/CH - MoveGroup.md",
+    "docs/Описание Backend/Use Cases/Command/CH - CreateSubgroup.md",
+    "docs/Описание Backend/События/Событие HierarchyValidation.md",
+    "docs/Описание Backend/События/Событие GroupMoved.md",
+    "docs/Описание Backend/События/Событие GroupCreated.md",
+    "docs/Процессы/Процессы - Управление иерархией групп.md",
+    "docs/Архитектура системы/Модель данных/Сущность org_subgroup.md",
+    "docs/static/GITEA-1",
+    "docs/Миграции данных",
+    "docs/Права доступа/Permissions - Organizations",
+    "docs/Права доступа",
+    "docs/Внешний API/Сервисы Organizations",
+    "docs/Описание Backend/Use Cases/Command",
+    "docs/Описание Backend/События",
+    "docs/Описание Backend/Сервисы",
+    "docs/Описание Backend/Use Cases",
+    "docs/Описание Backend",
+    "docs/Внешний API/Сервисы Repos/Метод POST !repos!owner!repo!pulls.md",
+    "docs/versioned_docs/version-1.24/usage/packages/alpine.md",
+    "Untitled.md",
+    "docs/versioned_docs/version-1.24/development/api-usage.md",
+    "docs/versioned_docs/version-1.27/usage/packages/alpine.md",
+    "docs/docs/usage/issues-prs/agit.md",
+    "docs/docs/usage/issues-prs/issue-pull-request-templates.md",
+    "docs/docs/development/api-usage.md",
+    "docs/docs/index.md",
+    "docs/Внешние системы/Внешняя система CDP Legal Coverage/Сервисы CDP Legal Coverage/Сервис CreateMember в CDP Legal.md",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Red Line.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header None Red Line.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Cancelled Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Completed Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Vantix Law Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Advantage Law Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Future Loan.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Turnbull Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header Regular Client.png",
+    "docs/Разделы CRM/UI Tab Enrollments/UI Enrollments - Main/static/UI Enrollments Header.png",
+    "Untitled.canvas"
+  ]
+}

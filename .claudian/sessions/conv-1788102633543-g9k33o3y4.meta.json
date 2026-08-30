@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788102633543-g9k33o3y4",
+  "providerId": "claude",
+  "title": "Fix duplicate Docusaurus pages",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788102633549,
+  "updatedAt": 1788103163976,
+  "lastResponseAt": 1788103163976,
+  "sessionId": "0518affd-d500-44dd-a311-e31ab28cea1e",
+  "providerState": {
+    "providerSessionId": "0518affd-d500-44dd-a311-e31ab28cea1e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 954,
+    "cacheReadInputTokens": 80425,
+    "contextWindow": 200000,
+    "contextTokens": 81387,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}
