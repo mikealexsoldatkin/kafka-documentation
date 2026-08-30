@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.89453125
+    "width": 215.8515625
   },
   "right": {
     "id": "39efc4e2d2f96253",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.46484375
+    "width": 452.3828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff19c5a48544f8d2",
+  "active": "b51371c9af42703e",
   "lastOpenFiles": [
     "tasks/GITEA-1.md",
     "docs/Миграции данных/Миграция GITEA-1.md",

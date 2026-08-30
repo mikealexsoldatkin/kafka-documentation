@@ -22,7 +22,7 @@ jobs:
         run: |
           git fetch origin master
           git merge-base origin/master HEAD
-          mkdir -p "temp/crm-specification"
-          git archive origin/master docs tasks | tar -x -C "temp/crm-specification"
+          mkdir -p "temp/kafka-documentation"
+          git archive origin/master docs tasks | tar -x -C "temp/kafka-documentation"
 
       - run: node scripts/index.js --no-deprecation TASK_PUBLISHING_MODE
